@@ -30,7 +30,7 @@ aryan@universe:~$ cat identity.json
   "superpower"  : "I touch every layer of the stack — and make them talk to each other",
   "approach"    : "Problem first. Stack second. Ship always.",
   "learning"    : ["Advanced Kubernetes", "Terraform at scale", "Multi-agent AI systems"],
-  "building"    : ["TechIngo", "Hackathon Platform", "Agentic AI workflows"],
+  "building"    : ["TechIngo", "InkDown", "Agentic AI workflows"],
   "philosophy"  : "Automate the boring. Build the interesting. Ship the useful."
 }
 ```
@@ -118,25 +118,9 @@ WebSocket-powered **multiplayer game** where teams compete in real time. Not jus
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
+**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234/Techingo)
 
 </td>
-<td width="50%" valign="top">
-
-### 🏆 Hackathon Management Platform
-> *Streamlining the chaos of running a hackathon*
-
-End-to-end platform for managing hackathons — team formation, project submissions, judging workflows. Built because every hackathon organiser deserves better tools than a Google Sheet.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔐 FuseVault
@@ -148,7 +132,24 @@ Built this to deeply understand how things work at the OS level. Encryption, fil
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
+**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234/FuseVault)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 InkDown
+> *Markdown in. Beautiful documents out.*
+
+End-to-end tool for converting Markdown into pixel-perfect PDF & DOCX — syntax highlighting, smart tables, page control, and a polished web UI. Built because your `.md` files deserve better than a plain text viewer.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![OOXML](https://img.shields.io/badge/-OOXML-D83B01?style=flat-square&logo=microsoftword&logoColor=white)
+
+**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234/InkDown)
 
 </td>
 <td width="50%" valign="top">
