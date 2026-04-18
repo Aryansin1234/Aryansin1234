@@ -214,11 +214,7 @@ aryan@universe:~$ cat open_to.md
 <img src="https://streak-stats.demolab.com?user=aryansin1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&timezone=Asia%2FKolkata" width="48%" />
 
 <!-- profile-details card tracks commits + PRs + issues + reviews reliably -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryansin1234&theme=tokyo_night" width="98%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryansin1234&theme=tokyo_night" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryansin1234&theme=tokyo_night" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryansin1234&theme=tokyo_night" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansin1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&langs_count=10" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansin1234&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30" width="98%" />
 
