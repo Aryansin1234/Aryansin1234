@@ -211,7 +211,7 @@ aryan@universe:~$ cat open_to.md
 <!-- count_private + include_all_commits fixes missing commit counts -->
 <img src="https://github-readme-stats.vercel.app/api?username=aryansin1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&count_private=true&include_all_commits=true" width="48%" />
 <!-- demolab endpoint is far more stable than the herokuapp one -->
-<img src="https://streak-stats.demolab.com?user=aryansin1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD" width="48%" />
+<img src="https://streak-stats.demolab.com?user=aryansin1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&timezone=Asia%2FKolkata" width="48%" />
 
 <!-- profile-details card tracks commits + PRs + issues + reviews reliably -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryansin1234&theme=tokyo_night" width="98%" />
