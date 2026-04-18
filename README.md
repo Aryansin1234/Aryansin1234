@@ -118,7 +118,7 @@ WebSocket-powered **multiplayer game** where teams compete in real time. Not jus
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234/Techingo)
+**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
 
 </td>
 <td width="50%" valign="top">
@@ -132,7 +132,7 @@ Built this to deeply understand how things work at the OS level. Encryption, fil
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234/FuseVault)
+**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ End-to-end tool for converting Markdown into pixel-perfect PDF & DOCX — syntax
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![OOXML](https://img.shields.io/badge/-OOXML-D83B01?style=flat-square&logo=microsoftword&logoColor=white)
 
-**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234/InkDown)
+**Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
 
 </td>
 <td width="50%" valign="top">
@@ -207,13 +207,21 @@ aryan@universe:~$ cat open_to.md
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryansin1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansin1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansin1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansin1234&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30" width="58%" />
+<!-- count_private + include_all_commits fixes missing commit counts -->
+<img src="https://github-readme-stats.vercel.app/api?username=aryansin1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&count_private=true&include_all_commits=true" width="48%" />
+<!-- demolab endpoint is far more stable than the herokuapp one -->
+<img src="https://streak-stats.demolab.com?user=aryansin1234&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD" width="48%" />
+
+<!-- profile-details card tracks commits + PRs + issues + reviews reliably -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryansin1234&theme=tokyo_night" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryansin1234&theme=tokyo_night" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryansin1234&theme=tokyo_night" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryansin1234&theme=tokyo_night" width="32%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansin1234&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30" width="98%" />
+
 </div>
 
 ---
