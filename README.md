@@ -104,10 +104,6 @@ aryan@universe:~$ echo $ADAPTABILITY
 
 ## 🚀 Projects I've Built — and Why They Matter
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎮 TechIngo
 > *The modern, real-time twist on Bingo — built for tech learners*
 
@@ -120,8 +116,7 @@ WebSocket-powered **multiplayer game** where teams compete in real time. Not jus
 
 **Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🔐 FuseVault
 > *Going to the metal — C + Bash secure secrets vault*
@@ -134,10 +129,7 @@ Built this to deeply understand how things work at the OS level. Encryption, fil
 
 **Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 📝 InkDown
 > *Markdown in. Beautiful documents out.*
@@ -151,8 +143,7 @@ End-to-end tool for converting Markdown into pixel-perfect PDF & DOCX — syntax
 
 **Status:** 🟢 Active &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🤖 Agentic AI Systems
 > *Multi-agent orchestration · MCP · Autonomous workflows*
@@ -164,10 +155,6 @@ Building the next layer of AI — agents that plan, reason, and act autonomously
 ![MCP](https://img.shields.io/badge/-MCP-7F77DD?style=flat-square&logo=anthropic&logoColor=white)
 
 **Status:** 🔨 Building &nbsp;·&nbsp; [View Repo →](https://github.com/Aryansin1234)
-
-</td>
-</tr>
-</table>
 
 ---
 
